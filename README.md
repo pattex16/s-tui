@@ -1,4 +1,4 @@
-# The Stress Terminal UI: s-tui
+# The Stress Terminal UI: s-tui with WASD keybindings
 
 [![Build Status](https://travis-ci.org/amanusk/s-tui.svg?branch=master)](https://travis-ci.org/amanusk/s-tui)
 [![PyPI version](https://badge.fury.io/py/s-tui.svg)](https://badge.fury.io/py/s-tui)
