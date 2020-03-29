@@ -73,13 +73,13 @@ DEFAULT_PALETTE = [
 class ViListBox(urwid.ListBox):
     # Catch key presses in box and pass them as arrow keys
     def keypress(self, size, key):
-        if key == 'j':
+        if key == 's':
             key = 'down'
-        elif key == 'k':
+        elif key == 'w':
             key = 'up'
-        elif key == 'h':
+        elif key == 'a':
             key = 'left'
-        elif key == 'l':
+        elif key == 'd':
             key = 'right'
         elif key == 'G':
             key = 'page down'
